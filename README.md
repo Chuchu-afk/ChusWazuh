@@ -214,6 +214,7 @@ Inside the Wazuh Dashboard:
   - `wazuh-alerts-*`
   - `wazuh-monitoring-*`
 - Confirm no service errors are reported
+![Wazuh](https://github.com/Chuchu-afk/ChusWazuh/blob/main/wazuh%20live%20server.png?raw=true)
 
 ---
 
