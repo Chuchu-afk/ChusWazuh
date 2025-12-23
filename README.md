@@ -227,7 +227,7 @@ This deployment resulted in:
   - Firewall logs (OPNsense)
   - Linux agents
   - VPN and infrastructure services
-
 The environment is now prepared for advanced detection engineering, alert tuning, and SOC-style workflows.
+![Wazuh](https://github.com/Chuchu-afk/ChusWazuh/blob/main/wazuh%20login.png?raw=true)
 
 ---
